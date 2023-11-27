@@ -1,4 +1,8 @@
-h1 {color:red;}
-p{color :blueviolet;}
-p{color:fuchsia;}
-p{color:aqua;}
+.titulo { text-align: center; color: palevioletred}
+.frase {text-align: center;
+    background-color: #d12b5a;
+        color: white;
+            padding: 24px 0;
+                margin: 0 16px;
+                    font-size: 20px;
+                    }
